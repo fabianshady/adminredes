@@ -1,4 +1,5 @@
 clear
+mc
 menu='Menu de cifrado\n
 Selecciona la opcion deseada\n
 1. crear archivo\n
