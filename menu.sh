@@ -1,6 +1,6 @@
 clear
 mc
-menu='Menu de cifrado\n
+menu='Meenu de cifrado\n
 Selecciona la opcion deseada\n
 1. crear archivo\n
 2. cifrado simetrico\n
