@@ -1,4 +1,4 @@
-echo "Menu hash"
+echo "Menu hash fabian"
 menu () {
 	select opt in sha256sum sha1sum sha512sum md5sum salir;
 	do 
